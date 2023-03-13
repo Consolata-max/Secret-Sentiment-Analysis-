@@ -1,4 +1,4 @@
-# Secret Sentiment Analysis of the glassdoor job reviews dataset.
+# Sentiment Analysis of the glassdoor job reviews dataset.
 
 Most of my peers spend hours sifting through endless job postings and feeling like they're sending your resume into a black hole. 
 As part of my KaggleX BIPOC mentorship program, I decided to do a sentiment analysis which is a part of Natural Language Processing techniques that aid in extracting emotions related to some raw texts.
